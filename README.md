@@ -1,7 +1,7 @@
 # CodeBase
-#Repository for demonstrating code usage
+
 #First training on how to use GitHubs Commit Changes feature
-# Sturgeo Testing this out
+
 <!DOCTYPE html><html lang="en-US">
   <head>    <meta charset='utf-8'>    <meta http-equiv="X-UA-Compatible" content="chrome=1">    <meta name="viewport" content="width=device-width,maximum-scale=2">    <meta name="description" content="dsfitzge.github.io : site">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=4b97ca032e32d7c2bd9d8ee0ca6c08b35e213aa4">
